@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "933874279014",
+    "firebase_url": "https://naat-jjct.firebaseio.com",
+    "project_id": "naat-jjct",
+    "storage_bucket": "naat-jjct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933874279014:android:8cdddada2c13b025",
+        "android_client_info": {
+          "package_name": "e.jesus.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933874279014-g43rov8qkevkc3s93aokp27h28eurtdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqEIBfURduwAW2AxZ2BllrG4ZYiSrxfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
